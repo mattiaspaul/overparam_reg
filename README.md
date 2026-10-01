@@ -1,9 +1,9 @@
 # overparam_reg
 code for Off-Grid 2026 paper on deformable 3D registration 
 
-![Formatted Code](offgrid_color_annotated.svg)
+![Formatted Code](offgrid_color_annotated.png.1.png)
 
-![Concept figure](offgrid_concept_sparse.svg)
+![Concept figure](offgrid_concept_sparse.png)
 
 # Multi-Scale Differentiable Gaussian Splatting for Sparse 3D Registration
 
